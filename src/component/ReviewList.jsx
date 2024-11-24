@@ -54,7 +54,7 @@ const ReviewList = () => {
 		):(
 		  <Box mt='20px'>
 			<Spinner/>
-			<Text>Apology for delay Reviews are being loaded....</Text>
+			<Text>Apology for delay Reviews are loading...</Text>
 		  </Box>
 		)
         }
